@@ -22,8 +22,11 @@
 ---
 
 ## 📌 Projetos em destaque
-🔹 **[Projeto ml-brasileirao-corinthians]** – Previsão de resultados no futebol usando ML  
+- **[Projeto ml-brasileirao-corinthians]** – Previsão de resultados no futebol usando ML  
+- 🧾 **[Automação PCL → PDF](Em produção)** — automação de processo (Python + Oracle) com geração em lote e logs.
+- 🌐 **[portfolio](https://github.com/vitorgabriel100/portfolio)** — meu site/portfólio pessoal (GitHub Pages).
 ---
 
 ## 📫 Onde me encontrar
 - LinkedIn: https://linkedin.com/in/vitor-penhorato
+- E-mail: contato.vitorgabriel2@gmail.com
