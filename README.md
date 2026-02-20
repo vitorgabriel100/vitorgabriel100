@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vitor
 
-<!--
-**vitorgabriel100/vitorgabriel100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor iniciante focado em **Inteligência Artificial, Machine Learning, Análise de dados e automação de decisões** 
+📊 Experiência com dados, APIs e sistemas reais  
+⚽ Projetos pessoais envolvendo **dados + IA**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 O que eu curto resolver
+- Previsão de comportamentos e resultados
+- Automação de processos com dados
+- Modelos de Machine Learning aplicados a problemas reais
+
+---
+
+## 🚀 Tecnologias
+- Python • SQL • Machine Learning
+- Pandas • NumPy • Scikit-learn
+- APIs REST • Git • GitHub
+- (em evolução) Deep Learning
+
+---
+
+## 📌 Projetos em destaque
+🔹 **[Projeto ml-brasileirao-corinthians]** – Previsão de resultados no futebol usando ML  
+---
+
+## 📫 Onde me encontrar
+- LinkedIn: https://linkedin.com/in/vitor-penhorato
