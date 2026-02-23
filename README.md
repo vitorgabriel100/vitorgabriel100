@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">👋 Olá, eu sou o Vitor Gabriel</h1>
+<h1 align="center">💎 Vitor Penhorato</h1>
 
 <p align="center">
   <b>Desenvolvedor em formação focado em Inteligência Artificial, Machine Learning,<br/>
