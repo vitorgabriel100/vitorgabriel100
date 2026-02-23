@@ -97,14 +97,29 @@
 
 <!-- ================= STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorgabriel100&theme=tokyonight"
+    alt="Profile details"
+  />
+</p>
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=vitorgabriel100&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400&v=1"
-       alt="GitHub stats" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabriel100&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400&v=1"
-       alt="Top languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorgabriel100&theme=tokyonight"
+    alt="Repos per language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorgabriel100&theme=tokyonight"
+    alt="Most commit language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vitorgabriel100&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vitorgabriel100&theme=tokyonight&hide_border=true"
