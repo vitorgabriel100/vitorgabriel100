@@ -1,102 +1,78 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">👋 Olá, eu sou o Vitor Gabriel</h1>
+<!-- ================= CLEAN TOKYO (MINIMAL) ================= -->
+
+<h1 align="center">👋 Olá, eu sou o Vitor Penhorato</h1>
 
 <p align="center">
-  <b>Desenvolvedor em formação focado em Inteligência Artificial, Machine Learning,<br/>
-  Análise de Dados e automação de decisões</b>
+  <b>IA • Machine Learning • Dados • Automação de decisões</b><br/>
+  <sub>Backend com Node.js • APIs REST • projetos aplicados (futebol ⚽)</sub>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vitor-penhorato" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
   </a>
   <a href="mailto:contato.vitorgabriel2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-f7768e?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
   </a>
   <a href="https://github.com/vitorgabriel100" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1f2335?style=for-the-badge&logo=github&logoColor=c0caf5"/>
   </a>
 </p>
 
----
+<hr/>
 
-<!-- ================= SOBRE ================= -->
-<h2>🎯 Sobre mim</h2>
-
+<h2>🎓 Formação</h2>
 <ul>
-  <li>🎯 Desenvolvedor iniciante focado em <b>IA, Machine Learning, Análise de Dados</b> e automação de decisões</li>
-  <li>📊 Experiência prática com <b>dados, APIs e sistemas reais</b></li>
-  <li>⚽ Projetos pessoais envolvendo <b>dados + IA</b>, com foco em futebol</li>
-  <li>🧠 Curto resolver previsão de comportamentos, resultados e automação orientada a dados</li>
+  <li><b>Análise e Desenvolvimento de Sistemas</b> — Universidade Cruzeiro do Sul</li>
+  <li><b>Pós-graduação Lato Sensu em Inteligência Artificial e Machine Learning</b> — Universidade de Mogi das Cruzes (UMC)</li>
 </ul>
 
----
+<h2>🧰 Stack</h2>
 
-<!-- ================= FORMAÇÃO ================= -->
-<h2>🎓 Formação Acadêmica</h2>
-
-<ul>
-  <li>🎓 <b>Análise e Desenvolvimento de Sistemas</b> — Universidade Cruzeiro do Sul</li>
-  <li>🎓 <b>Pós-graduação Lato Sensu em Inteligência Artificial e Machine Learning</b> — Universidade de Mogi das Cruzes (UMC)</li>
-</ul>
-
----
-
-<!-- ================= TECNOLOGIAS ================= -->
-<h2>🧰 Tecnologias & Ferramentas</h2>
-
-<h3>🧠 IA & Dados</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="44"/>
+  <!-- Dados / ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="SQL/MySQL"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub"/>
 </p>
 
-<h3>⚙️ Backend & Automação</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="44"/>
+<p>
+  <b>Também:</b> APIs REST • ETL leve • automação com dados <br/>
+  <b>Em evolução:</b> Deep Learning
 </p>
 
-<h3>🔧 Ferramentas</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44"/>
-</p>
+<hr/>
 
-<p><b>📌 Em evolução:</b> Deep Learning</p>
-
----
-
-<!-- ================= PROJETOS ================= -->
-<h2>📌 Projetos em Destaque</h2>
-
+<h2>📌 Projetos</h2>
 <ul>
   <li>
-    ⚽ <b>ml-brasileirao-corinthians</b><br/>
-    Previsão de resultados no futebol utilizando Machine Learning<br/>
-    🔗 <a href="https://github.com/vitorgabriel100/ml-brasileirao-corinthians">Ver repositório</a>
+    ⚽ <b>ml-brasileirao-corinthians</b> — previsão de resultados no futebol usando ML
+    • <a href="https://github.com/vitorgabriel100/ml-brasileirao-corinthians">repo</a>
   </li>
-  <br/>
   <li>
-    🧠 <b>ml-player-performance</b><br/>
-    Pipeline de dados e análise de temporadas para avaliação de desempenho de jogadores<br/>
-    🔗 <a href="https://github.com/vitorgabriel100/ml-player-performance">Ver repositório</a>
+    🧠 <b>ml-player-performance</b> — análise/pipeline de dados de temporadas para desempenho de jogadores
+    • <a href="https://github.com/vitorgabriel100/ml-player-performance">repo</a>
   </li>
-  <br/>
   <li>
-    🌐 <b>Portfolio pessoal</b><br/>
-    Site pessoal desenvolvido com GitHub Pages<br/>
-    🔗 <a href="https://vitorgabriel100.github.io/portfolio/">Acessar site</a>
+    🌐 <b>portfolio</b> — GitHub Pages
+    • <a href="https://vitorgabriel100.github.io/portfolio/">site</a>
   </li>
 </ul>
 
----
+<hr/>
 
-<!-- ================= STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub</h2>
+
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorgabriel100&theme=tokyonight"
@@ -106,39 +82,15 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorgabriel100&theme=tokyonight"
-    alt="Repos per language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorgabriel100&theme=tokyonight"
-    alt="Most commit language"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=vitorgabriel100&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
   />
 </p>
+
+<h2 align="center">🐍</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vitorgabriel100&theme=tokyonight&hide_border=true"
-       alt="GitHub streak"/>
-</p>
-
----
-
-<!-- ================= SNAKE ================= -->
-<h2 align="center">🐍 Contribuições</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vitorgabriel100/vitorgabriel100/output/github-contribution-grid-snake.svg?cache=1"
-       alt="Snake animation"/>
-</p>
-
----
-
-<!-- ================= VISUALIZAÇÕES ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitorgabriel100&label=Profile%20Views&color=7aa2f7&style=flat"/>
+  <img
+    src="https://raw.githubusercontent.com/vitorgabriel100/vitorgabriel100/output/github-contribution-grid-snake.svg?cache=1"
+    alt="Snake animation"
+  />
 </p>
