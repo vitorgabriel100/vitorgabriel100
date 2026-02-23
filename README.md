@@ -100,13 +100,12 @@
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=vitorgabriel100&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"
-       alt="GitHub stats"/>
+       src="https://github-readme-stats.vercel.app/api?username=vitorgabriel100&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400&v=1"
+       alt="GitHub stats" />
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabriel100&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=86400"
-       alt="Top languages"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabriel100&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400&v=1"
+       alt="Top languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vitorgabriel100&theme=tokyonight&hide_border=true"
        alt="GitHub streak"/>
