@@ -1,18 +1,130 @@
-## 📊 Status & Estatísticas
+<!-- ================= HEADER ================= -->
+<h1 align="center">👋 Olá, eu sou o Vitor Gabriel</h1>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorgabriel100&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabriel100&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&cache_seconds=86400" />
+  <b>Desenvolvedor em formação focado em Inteligência Artificial, Machine Learning,<br/>
+  Análise de Dados e automação de decisões</b>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vitorgabriel100&theme=tokyonight&hide_border=true" />
+  <a href="https://linkedin.com/in/vitor-penhorato" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contato.vitorgabriel2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vitorgabriel100" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🐍 Atividade no GitHub (Snake)
+<!-- ================= SOBRE ================= -->
+<h2>🎯 Sobre mim</h2>
+
+<ul>
+  <li>🎯 Desenvolvedor iniciante focado em <b>IA, Machine Learning, Análise de Dados</b> e automação de decisões</li>
+  <li>📊 Experiência prática com <b>dados, APIs e sistemas reais</b></li>
+  <li>⚽ Projetos pessoais envolvendo <b>dados + IA</b>, com foco em futebol</li>
+  <li>🧠 Curto resolver previsão de comportamentos, resultados e automação orientada a dados</li>
+</ul>
+
+---
+
+<!-- ================= FORMAÇÃO ================= -->
+<h2>🎓 Formação Acadêmica</h2>
+
+<ul>
+  <li>🎓 <b>Análise e Desenvolvimento de Sistemas</b> — Universidade Cruzeiro do Sul</li>
+  <li>🎓 <b>Pós-graduação Lato Sensu em Inteligência Artificial e Machine Learning</b> — Universidade de Mogi das Cruzes (UMC)</li>
+</ul>
+
+---
+
+<!-- ================= TECNOLOGIAS ================= -->
+<h2>🧰 Tecnologias & Ferramentas</h2>
+
+<h3>🧠 IA & Dados</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="44"/>
+</p>
+
+<h3>⚙️ Backend & Automação</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="44"/>
+</p>
+
+<h3>🔧 Ferramentas</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44"/>
+</p>
+
+<p><b>📌 Em evolução:</b> Deep Learning</p>
+
+---
+
+<!-- ================= PROJETOS ================= -->
+<h2>📌 Projetos em Destaque</h2>
+
+<ul>
+  <li>
+    ⚽ <b>ml-brasileirao-corinthians</b><br/>
+    Previsão de resultados no futebol utilizando Machine Learning<br/>
+    🔗 <a href="https://github.com/vitorgabriel100/ml-brasileirao-corinthians">Ver repositório</a>
+  </li>
+  <br/>
+  <li>
+    🧠 <b>ml-player-performance</b><br/>
+    Pipeline de dados e análise de temporadas para avaliação de desempenho de jogadores<br/>
+    🔗 <a href="https://github.com/vitorgabriel100/ml-player-performance">Ver repositório</a>
+  </li>
+  <br/>
+  <li>
+    🌐 <b>Portfolio pessoal</b><br/>
+    Site pessoal desenvolvido com GitHub Pages<br/>
+    🔗 <a href="https://vitorgabriel100.github.io/portfolio/">Acessar site</a>
+  </li>
+</ul>
+
+---
+
+<!-- ================= STATS ================= -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vitorgabriel100/vitorgabriel100/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=vitorgabriel100&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"
+       alt="GitHub stats"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabriel100&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=86400"
+       alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitorgabriel100&theme=tokyonight&hide_border=true"
+       alt="GitHub streak"/>
+</p>
+
+---
+
+<!-- ================= SNAKE ================= -->
+<h2 align="center">🐍 Contribuições</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitorgabriel100/vitorgabriel100/output/github-contribution-grid-snake.svg?cache=1"
+       alt="Snake animation"/>
+</p>
+
+---
+
+<!-- ================= VISUALIZAÇÕES ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitorgabriel100&label=Profile%20Views&color=7aa2f7&style=flat"/>
 </p>
