@@ -66,11 +66,11 @@
 - ⚽ **ml-brasileirao-corinthians** — Previsão de resultados no futebol usando ML  
   🔗 https://github.com/vitorgabriel100/ml-brasileirao-corinthians
 
-- 🧾 **Automação PCL → PDF (em produção)** — Python + Oracle, geração em lote, logs e validações  
-  *(adicione o link do repo quando estiver público)*
+- 🧾 **ml-player-performance** — Análise de temporadas de futebol de jogador especifico
+  🔗 https://github.com/vitorgabriel100/ml-player-performance
 
 - 🌐 **Portfolio** — Meu site/portfólio pessoal (GitHub Pages)  
-  *(adicione o link quando estiver pronto)*
+  🔗 https://vitorgabriel100.github.io/portfolio/
 
 ---
 
