@@ -91,6 +91,13 @@
     Site pessoal desenvolvido com GitHub Pages<br/>
     🔗 <a href="https://vitorgabriel100.github.io/portfolio/">Acessar site</a>
   </li>
+  <br/>
+  <li>
+    📊 <b>service-desk-demand-forecast</b><br/>
+    Pipeline de dados e análise de temporadas para avaliação de desempenho de jogadores<br/>
+    🔗 <a href="https://github.com/vitorgabriel100/service-desk-demand-forecast">Ver repositório</a>
+  </li>
+  <br/>
 </ul>
 
 <hr/>
