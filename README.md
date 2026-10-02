@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Sou **Analista de Service Desk Jr** e estudante de tecnologia, com foco em **Análise de Dados, Automações, Banco de Dados, Python e Machine Learning**.
+Sou **Analista de Service Desk PL** e estudante de tecnologia, com foco em **Análise de Dados, Automações, Banco de Dados, Python e Machine Learning**.
 
 Atuo no dia a dia resolvendo problemas reais de sistemas, suporte N1/N2, consultas e ajustes em banco de dados, análise de inconsistências e apoio a processos operacionais. Meu objetivo é evoluir para posições de **Dados, BI, Engenharia de Dados, Machine Learning e Automações Inteligentes**.
 
